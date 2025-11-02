@@ -21,5 +21,5 @@ And then run `npm i` to install dependencies and `npx tsx main.ts` to start the 
 
 Again I say that this bot is not intended for production. Modify the code as you wish and then release it.
 
-Here's an example of what I mean regarding code blocks not getting cut-off. You can clearly see here that the big block got split into two to fit with discord's 2000 messages limit, and they were parsed properly as it automatically adds backticks to the end/start of each new code message continuation.
+Here's an example of what I mean regarding code blocks not getting cut-off. You can clearly see here that the big block got split into two to fit with discord's 2000 messages limit, and they were parsed properly as it automatically adds backticks to each new code message continuation.
 <img width="604" height="414" alt="image" src="https://github.com/user-attachments/assets/b24b0bf3-0b65-4b58-8b5f-ff2f9606f99a" />
